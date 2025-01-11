@@ -41,7 +41,7 @@ const MissionSection = () => {
                 alt="Industry Challenge"
                 className="w-16 h-16 mx-auto mb-4"
               />
-              <h3 className="text-base sm:text-lg font-semibold text-gray-800">
+              <h3 className="text-base sm:text-lg font-semibold text-[#FF803A]">
                 Industry Challenge
               </h3>
             </div>
@@ -53,7 +53,7 @@ const MissionSection = () => {
                 alt="Greenwashing"
                 className="w-16 h-16 mx-auto mb-4"
               />
-              <h3 className="text-base sm:text-lg font-semibold text-gray-800">
+              <h3 className="text-base sm:text-lg font-semibold text-[#05D776]">
                 Greenwashing
               </h3>
             </div>
@@ -65,7 +65,7 @@ const MissionSection = () => {
                 alt="Lack of Scope 3 Accounting"
                 className="w-16 h-16 mx-auto mb-4"
               />
-              <h3 className="text-base sm:text-lg font-semibold text-gray-800">
+              <h3 className="text-base sm:text-lg font-semibold text-[#50922899]">
                 Lack of Scope 3 Accounting
               </h3>
             </div>
@@ -77,7 +77,7 @@ const MissionSection = () => {
                 alt="Lack of Automation"
                 className="w-16 h-16 mx-auto mb-4"
               />
-              <h3 className="text-base sm:text-lg font-semibold text-gray-800">
+              <h3 className="text-base sm:text-lg font-semibold text-blue-500">
                 Lack of Automation
               </h3>
             </div>
@@ -109,7 +109,7 @@ const MissionSection = () => {
                   className="w-16 sm:w-24 h-16 sm:h-24 object-contain"
                 />
               </div>
-              <a href="#" className="text-teal-500 font-medium mt-4 block">
+              <a href="#" className="text-teal-500 font-medium mt-4 block underline">
                 Read more...
               </a>
             </div>
@@ -130,7 +130,7 @@ const MissionSection = () => {
                   className="w-16 sm:w-24 h-16 sm:h-24 object-contain"
                 />
               </div>
-              <a href="#" className="text-teal-500 font-medium mt-4 block">
+              <a href="#" className="text-teal-500 font-medium mt-4 block underline">
                 Read more...
               </a>
             </div>
@@ -138,13 +138,11 @@ const MissionSection = () => {
             {/* Card 3 */}
             <div className="bg-yellow-50 shadow-lg rounded-lg p-6 border border-gray-200">
               <h4 className="text-base sm:text-lg font-semibold text-orange-800 mb-4">
-                Guarantee access to reliable, sustainable and modern energy
-                services
+              Building resilient infrastructure and promoting sustainable industrialization
               </h4>
               <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
                 <p className="text-gray-700 text-sm sm:text-base flex-1">
-                  Improving the energy efficiency of industrial tools through
-                  reliable consumption data.
+                The plan involves developing innovative tools to regulate industries and promote sustainability implementing data analytics
                 </p>
                 <img
                   src={blocks}
@@ -152,7 +150,7 @@ const MissionSection = () => {
                   className="w-16 sm:w-24 h-16 sm:h-24 object-contain"
                 />
               </div>
-              <a href="#" className="text-teal-500 font-medium mt-4 block">
+              <a href="#" className="text-teal-500 font-medium mt-4 block underline">
                 Read more...
               </a>
             </div>
@@ -174,7 +172,7 @@ const MissionSection = () => {
                   className="w-16 sm:w-24 h-16 sm:h-24 object-contain"
                 />
               </div>
-              <a href="#" className="text-teal-500 font-medium mt-4 block">
+              <a href="#" className="text-teal-500 font-medium mt-4 block underline">
                 Read more...
               </a>
             </div>
