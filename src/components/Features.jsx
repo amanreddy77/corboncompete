@@ -47,7 +47,7 @@ const Features = () => {
   ];
 
   return (
-    <div className="bg-[url('/Users/amanreddyp/carboncompete/frontend/src/images/backgroud.png')] bg-cover bg-center text-white py-16 px-8">
+    <div className="bg-[url('https://png.pngtree.com/background/20220715/original/pngtree-dark-blue-black-metallic-technology-internet-commerce-abstract-hexagonal-background-picture-image_1625793.jpg')] bg-cover bg-center text-white py-16 px-8">
       <h2 className="text-left text-3xl font-bold mb-12 text-teal-400">
         Our Features
       </h2>
