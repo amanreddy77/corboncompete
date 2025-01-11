@@ -3,7 +3,7 @@ import section0 from "../images/section0.svg";
 import city from "../images/city.svg";
 import group from "../images/group.png";
 import trees from "../images/trees.png";
-import scrolle from "../images/scroll.svg";
+import scrolle from "../images/Scroll.svg";
 
 const FeaturesSection = () => {
   return (
